@@ -1,0 +1,902 @@
+[
+    {
+        "id": "1",
+        "title": "异形：夺命舰",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4, 3],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "2",
+        "title": "逆行人生",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie2.webp"
+    },
+    {
+        "id": "3",
+        "title": "负负得正",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie3.webp"
+    },
+    {
+        "id": "4",
+        "title": "白蛇缘起",    
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "5",
+        "title": "解密",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie5.webp"
+    },
+    {
+        "id": "6",
+        "title": "重生",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie6.webp"
+    },
+    {
+        "id": "7",
+        "title": "死侍与金刚狼",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie7.webp"
+    },
+    {
+        "id": "8",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "9",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "10",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "11",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "12",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "13",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "14",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "15",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "16",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "17",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "18",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "19",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "20",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "21",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "22",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "23",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "24",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "25",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "26",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "27",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "28",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "29",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "30",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "31",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "32",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "33",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "34",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "35",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "36",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "37",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "38",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "39",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "40",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "41",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "42",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "43",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "44",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "45",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "46",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "47",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "48",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "49",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "50",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "51",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "52",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "53",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "54",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "55",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "56",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "57",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "58",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "59",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "60",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "61",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "62",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "63",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "64",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "65",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "66",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "67",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "68",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "69",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "70",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "71",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "72",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "73",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "74",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "75",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "76",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "77",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "78",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "79",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "80",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "81",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "82",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "83",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "84",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "85",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "86",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "87",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "88",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "89",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "90",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "91",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "92",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "93",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "94",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "95",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "96",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "97",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "98",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    },
+    {
+        "id": "99",
+        "title": "Movie Title 1",
+        "description": "Description for movie 1",
+        "ratingList": [2, 4, 3, 2, 3, 4, 1, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie1.webp"
+    },
+    {
+        "id": "100",
+        "title": "Movie Title 2",
+        "description": "Description for movie 2",
+        "ratingList": [1, 2, 3, 4, 5, 2, 5, 4],
+        "genre": "action",
+        "releaseDate": "2024-08-08",
+        "thumbnail": "/images/movie4.webp"
+    }
+]
